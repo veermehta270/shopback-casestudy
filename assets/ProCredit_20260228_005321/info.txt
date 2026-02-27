@@ -1,0 +1,6 @@
+Brand Name: ProCredit
+Email: veermehta270@gmail.com
+Original File: original.png
+Resized Files: assets\ProCredit_20260228_005321\resized_500x500.png
+Inverted File: assets\ProCredit_20260228_005321\inverted.png
+Upload Time: 2026-02-28 00:53:21.673092

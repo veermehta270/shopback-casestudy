@@ -1,0 +1,6 @@
+Brand Name: Tata
+Email: veermehta270@gmail.com
+Original File: original.png
+Resized Files: assets\Tata_20260228_002324\resized_500x500.png
+Inverted File: assets\Tata_20260228_002324\inverted.png
+Upload Time: 2026-02-28 00:23:24.988834

@@ -1,0 +1,6 @@
+Brand Name: NUS
+Email: e1357046@u.nus.edu
+Original File: original.png
+Resized Files: assets\NUS_20260228_002949\resized_500x500.png
+Inverted File: assets\NUS_20260228_002949\inverted.png
+Upload Time: 2026-02-28 00:29:49.557187

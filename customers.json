@@ -1,0 +1,17 @@
+{
+    "ProCredit": {
+        "email": "veermehta270@gmail.com",
+        "folder": "assets\\ProCredit_20260228_005527",
+        "status": "Finalized"
+    },
+    "Tata": {
+        "email": "veermehta270@gmail.com",
+        "folder": "assets\\Tata_20260228_002324",
+        "status": "Finalized"
+    },
+    "NUS": {
+        "email": "e1357046@u.nus.edu",
+        "folder": "assets\\NUS_20260228_002949",
+        "status": "Finalized"
+    }
+}
