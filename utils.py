@@ -107,7 +107,7 @@ def download_drive_file(drive_link, save_folder):
     """
     file_id = extract_drive_file_id(drive_link)
 
-    output_path = Path(save_folder) / "drive_download.png"
+    output_path = Path(save_folder) / "original.png"
 
     url = f"https://drive.google.com/uc?export=download&id={file_id}"
 
