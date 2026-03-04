@@ -264,7 +264,7 @@ if page == "Customer Registration / Upload":
 
     st.write("")
     uploaded_files = st.file_uploader("Upload 1–3 logos (PNG / JPG)", type=["png","jpg","jpeg"], accept_multiple_files=True)
-    drive_link = st.text_input("Google Drive Link", placeholder="https://drive.google.com/... (optional)")
+    drive_link = st.text_input("Google Drive Link", placeholder="https://drive.google.com/...")
 
     st.write("")
     if st.button("Submit →"):
